@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fatih</h1>
 <!--  <img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20190626123927/untitlsssssed.png" />  -->
-<h3 align="center">A passionate FUll-Stack developer from Turkey</h3>
+<h3 align="center">A passionate Full-Stack developer from Turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fsarikaya07&label=Profile%20views&color=0e75b6&style=flat" alt="fsarikaya07" /> </p>
 
